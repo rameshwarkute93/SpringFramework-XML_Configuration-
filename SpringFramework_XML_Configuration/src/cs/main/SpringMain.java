@@ -14,7 +14,7 @@ public class SpringMain {
 //		 With Spring
 		
 		ApplicationContext a = new ClassPathXmlApplicationContext(path);
-		Student s = (Student) a.getBean("s1");
+		Student s = (Student) a.getBean("s1"); // Get Student Bean
 		s.display();
 
 // Spring is responsible for:
