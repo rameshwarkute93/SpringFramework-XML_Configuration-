@@ -7,5 +7,5 @@
    - for XML file
 # Work Flow :
 - Applicattion Context read Xml file.
-- In xml file value are set to the bean class.
+- In xml file , value are set to the bean class.
 - Using application context bean are get and disply.
